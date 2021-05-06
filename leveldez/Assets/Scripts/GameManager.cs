@@ -10,8 +10,12 @@ public class GameManager : MonoBehaviour
 
     private Vector3 startPos;
     private int score;
-    
-    // Start is called before the first frame update
+
+    public GameObject completeLevelUI;
+    public void CompleteLevel()
+    {
+       completeLevelUI.SetActive(true);
+    }
     void Start()
     {
         startPos = player.transform.position;

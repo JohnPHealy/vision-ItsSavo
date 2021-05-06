@@ -1,0 +1,2 @@
+C:\Users\buber\Documents\Repository\vision-ItsSavo\leveldez\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\buber\Documents\Repository\vision-ItsSavo\leveldez\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
